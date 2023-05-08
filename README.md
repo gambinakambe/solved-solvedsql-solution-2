@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedsql-solution-2
+<br>
+1. Find the pnames of parts for which there is some supplier.2. Find the snames of suppliers who supply every part.3. Find the snames of suppliers who supply every red part.4. Find the pnames of parts supplied by Acme Widget Suppliers and no one else.5. Find the sids of suppliers who supply only red parts.6. Find the sids of suppliers who supply a red part and a green part.7. Find the sids of suppliers who supply a red part or a green part.
